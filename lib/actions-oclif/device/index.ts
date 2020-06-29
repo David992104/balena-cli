@@ -100,6 +100,7 @@ export default class DeviceCmd extends Command {
 				'status',
 				'is_online',
 				'ip_address',
+				'mac_address',
 				'application_name',
 				'last_seen',
 				'uuid',
