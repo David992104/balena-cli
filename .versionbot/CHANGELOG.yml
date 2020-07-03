@@ -1,4 +1,16 @@
 - commits:
+    - subject: Modify runCommand to accept args array instead of string
+      hash: 09ffd9e613b718db30aa842afea5cd03a75cb4e3
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Scott Lowe <scott@balena.io>
+        signed-off-by: Scott Lowe <scott@balena.io>
+      author: Scott Lowe
+  version: 12.3.13
+  date: 2020-07-03T08:52:39.087Z
+- commits:
     - subject: Convert `device init` to async await and oclif
       hash: 40f643c07f0b26ff9996ba5a5eb2371ff6833d58
       body: ''
